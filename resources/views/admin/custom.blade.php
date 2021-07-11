@@ -1,4 +1,4 @@
-<script>
+<script src="123">
     $(document).ready(function(){
        
         $('.status').on('click',function(){
